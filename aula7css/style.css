@@ -91,11 +91,9 @@ li:hover{
     body{
         background-color: yellow;
     }
-
     .header{
         width: 100%;
     }
-
     li{
         display: block;
         width: 50%;
